@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>  
+<h1 align="center">Hello there, Dilen here👋</h1>  
 <p align="center">🚀 Engineering Student | 💻 Researcher | 📊 Entrepreneur</p>  
 
 ---
@@ -18,9 +18,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
+### 📈 Here's the link to my other profiles: 
+<a href="https://www.linkedin.com/in/dilen-shankar-74732a225/">LinkedIn</a>
 
