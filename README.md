@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-🔹 Python | Carbon (Google's alternatives to C++ | Java | SQL | Swift |  Mojo <br>
+🔹 Python | Carbon (Google's alternatives to C++) | Java | SQL | Swift |  Mojo <br>
 🔹 Machine Learning | Bioinformatics | Cybersecurity  
 🔹 Web Development (HTML, CSS, JavaScript)  
 
