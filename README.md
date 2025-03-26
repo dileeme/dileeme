@@ -21,4 +21,5 @@
 ### 📈 Here's the link to my other profiles: 
 <a href="https://www.linkedin.com/in/dilen-shankar-74732a225/">LinkedIn</a>
 <a href="https://medium.com/@shankardilen">Medium</a>
+<a href="https://www.strava.com/athletes/141280445">Strava</a>
 
