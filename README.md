@@ -1,11 +1,10 @@
 <h1 align="center">Hello there, Dilen here👋</h1>  
-<p align="center">🚀 Engineering Student | 💻 Researcher | 📊 Entrepreneur</p>  
+<p align="center">🚀 Engineering Student | 💻 Researcher | 📊 Fitness Geek </p>  
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **Engineering Student** at Anna University, Chennai  
-- 🏢 Founder of **Trevalo Creatives** – Helping businesses grow online  
+- 🎓 **Engineering Student** at Anna University, Chennai   
 - 🔬 Researcher in **Bioinformatics & Cybersecurity in Healthcare**  
 - 🏃‍♂️ Passionate about **health, fitness, and data-driven insights**  
 
