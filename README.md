@@ -12,9 +12,7 @@
 
 ### 🛠️ Tech Stack  
 🔹 Python | Carbon (Google's alternatives to C++) | Java | SQL | Swift |  Mojo <br>
-🔹 Machine Learning | Bioinformatics | Cybersecurity  
-🔹 Web Development (HTML, CSS, JavaScript)  
-
+🔹 Machine Learning | Bioinformatics | Cybersecurity  | Web Development
 ---
 
 ### 📈 Here are links to my other profiles: 
