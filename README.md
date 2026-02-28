@@ -70,12 +70,10 @@ Benchmarking three FHE schemes across polynomial modulus degrees and dataset siz
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dileeme&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileeme&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dileeme&theme=tokyonight" width="100%"/>
 </p>
 ---
 
