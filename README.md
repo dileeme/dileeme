@@ -1,7 +1,7 @@
 <h1 align="center">Hey, Dilen here 👋</h1>
 
 <p align="center">
-  🎓 Engineering Student &nbsp;|&nbsp; 🔐 FHE Researcher &nbsp;|&nbsp; 🧬 Bioinformatics &nbsp;|&nbsp; 🏃‍♂️ Fitness Geek
+   Engineering Student &nbsp;|&nbsp;  FHE Researcher &nbsp;|&nbsp;  Bioinformatics &nbsp;|&nbsp;  Fitness Geek
 </p>
 
 <p align="center">
@@ -48,19 +48,19 @@ Benchmarking three FHE schemes across polynomial modulus degrees and dataset siz
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=flat-square&logoColor=white)
+![mojo](https://img.shields.io/badge/Mojo-FF6F00?style=flat-square&logoColor=white)
 
 **Libraries & Tools**
 
-![TenSEAL](https://img.shields.io/badge/TenSEAL-1F3A6E?style=flat-square&logoColor=white)
+![tenSEAL](https://img.shields.io/badge/TenSEAL-1F3A6E?style=flat-square&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 
 **Domains**
 
@@ -70,7 +70,7 @@ Benchmarking three FHE schemes across polynomial modulus degrees and dataset siz
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logoColor=white)
 
 ---
-### 📊 GitHub Stats
+### 📊 Profile Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dileeme&theme=tokyonight" width="100%"/>
