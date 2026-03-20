@@ -17,13 +17,14 @@
 
 ---
 
-### about Me
 
-- I am a junior undergraduate CS student at Anna University (Class of '27), with a strong focus in bioinformatics and privacy preserving ML.
-- 
+- i am a junior undergraduate CS student at Anna University (Class of '27), with a strong focus in bioinformatics and privacy preserving ML.
+- you can either see me at the library coding my life away, or at the ground running my breath away.
+- this github profile spans across all my vibe codes, serious research work, or classwork as part of my regular syllabus.
+- feel free to ask questions if you have any, reach out to me! 
 ---
 
-### 🔐 current Research/work
+### 🔐 current research/work
 
 > **Tradeoff Analysis of CKKS / BFV / BGV Fully Homomorphic Encryption for Differential Expression Scoring on RNA-Seq Gene Expression Data**
 
