@@ -39,6 +39,11 @@ Benchmarking three FHE schemes across polynomial modulus degrees and dataset siz
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dileeme&theme=tokyonight" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dileeme&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dileeme&theme=tokyonight"/>
+</p>
 ---
 
 <p align="center">
