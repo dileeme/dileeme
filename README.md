@@ -26,9 +26,9 @@
 
 ### 🔐 current research/work
 
-> **Tradeoff Analysis of CKKS / BFV / BGV Fully Homomorphic Encryption for Differential Expression Scoring on RNA-Seq Gene Expression Data**
+> **Tradeoff Analysis of BFV / CKKS Fully Homomorphic Encryption for Differential Expression Scoring on RNA-Seq Gene Expression Data**
 
-Benchmarking three FHE schemes across polynomial modulus degrees and dataset sizes on TCGA PANCAN RNA-Seq data. Measuring latency, ciphertext overhead, and approximation accuracy for privacy-preserving differential expression scoring on cancer gene expression data.
+Benchmarking two FHE schemes across polynomial modulus degrees and dataset sizes on TCGA PANCAN RNA-Seq data. Measuring latency, ciphertext overhead, and approximation accuracy for privacy-preserving differential expression scoring on cancer gene expression data.
 
 **Status:** Final manuscript prep!
 
